@@ -1,0 +1,32 @@
+.vertical-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+    padding: 20px;
+    height: 100%;
+}
+
+.names-sidebar {
+    font-family: "Chivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 17px;
+    white-space: nowrap;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 27px;
+}
+
+.image-container {
+    width: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.jamaica-image-container {
+    position: relative;
+}

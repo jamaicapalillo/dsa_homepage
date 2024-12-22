@@ -1,0 +1,7 @@
+.horizontal-rectangle {
+    background-color: #1F1F1F;
+    width: calc(200px + 800px + 200px + 40px);
+    /* Total width of all three columns plus gaps */
+    height: 100px;
+    margin-top: 20px;
+}
